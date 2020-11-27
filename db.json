@@ -31,6 +31,30 @@
       "cam_label": "Camera 5"
     }
     ],
+    
+  "allalarms": [
+    {
+      "id": "1",
+      "img": "https://steehold.com/img/sss/alarm.png",
+      "title": "17th October 2019",
+      "t_body": "Garden Alarm Triggered",
+      "datetime": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "2",
+      "img": "https://steehold.com/img/sss/alarm.png",
+      "title": "17th October 2019",
+      "t_body": "Main Gate Alarm Triggered",
+      "datetime": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "3",
+      "img": "https://steehold.com/img/sss/alarm.png",
+      "title": "17th October 2019",
+      "t_body": "Main Gate Alarm Triggered",
+      "datetime": "Thurs, 17th October 23:42"
+    },
+  ],
   "activities": [
     {
       "id": "1",
